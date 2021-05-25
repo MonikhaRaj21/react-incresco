@@ -6,47 +6,47 @@
             "title": "Midi sundress with shirring detail",
             "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
             "availableSizes": ["X", "L", "XL", "XXL"],
-            "price": 29.9
+            "price": 300
           },
           {
             "_id": "dress2",
-            "image": "http://assets.myntassets.com/assets/images/2466435/2018/5/21/265434b9-de22-4b2c-9ca2-ded4c01ef5801526878966488-Daniel-Klein-Women-Black-Analogue-Watch-DK11421-5-2221526878966271-1.jpg",
+            "image": "http://assets.myntassets.com/assets/images/7139461/2018/11/7/e611ed53-c1d6-4fa9-b4a6-eaf8d7bb5e7e1541566511748-Roadster-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-1671541566511549-1.jpg",
             "title": "Midi sundress with ruched front",
             "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
             "availableSizes": ["X", "M", "L"],
-            "price": 18.9
+            "price": 450
           },
           {
             "_id": "dress3",
-            "image": "http://assets.myntassets.com/assets/images/2466435/2018/5/21/5a51798e-0e4d-480d-b9ed-bdfcc30e22b51526878966366-Daniel-Klein-Women-Black-Analogue-Watch-DK11421-5-2221526878966271-6.jpg",
+            "image": "http://assets.myntassets.com/assets/images/6816007/2018/7/3/3a3279c9-abce-4b96-8864-d7235517b2711530602893936-Leadcat-5701530602892202-1.jpg",
             "title": "Midi dress in pink ditsy floral",
             "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
             "availableSizes": ["X", "M", "L"],
-            "price": 14.9
+            "price": 600
           },
           {
             "_id": "dress4",
-            "image": "http://assets.myntassets.com/assets/images/2466435/2018/5/21/314e6bcc-c0ae-408a-b3a8-8a31b2f337d51526878966390-Daniel-Klein-Women-Black-Analogue-Watch-DK11421-5-2221526878966271-5.jpg",
+            "image": "http://assets.myntassets.com/assets/images/2110558/2018/4/13/11523617167748-Vishudh-Women-Black--Gold-Toned-Printed-Straight-Kurta-9041523617167566-1.jpg",
             "title": "cami maxi dress in polka dot",
             "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
             "availableSizes": ["XL"],
-            "price": 25.9
+            "price": 450
           },
           {
             "_id": "dress5",
-            "image": "http://assets.myntassets.com/assets/images/2466435/2018/5/21/368417e0-6013-4b48-ae5b-619cc2f467581526878966440-Daniel-Klein-Women-Black-Analogue-Watch-DK11421-5-2221526878966271-3.jpg",
+            "image": "http://assets.myntassets.com/assets/images/10381447/2019/8/16/3aaf0f72-0cf4-40ef-a36c-c81e3186c3281565956541245-Campus-Sutra-Men-Sweatshirts-2091565956539708-1.jpg",
             "title": "Frill mini dress in yellow polka dot",
             "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
             "availableSizes": ["X", "L", "XL"],
-            "price": 10.9
+            "price": 300
           },
           {
             "_id": "dress6",
-            "image": "http://assets.myntassets.com/assets/images/2466435/2018/5/21/09caaa2f-c6ec-4fc2-812b-f97976f820431526878966463-Daniel-Klein-Women-Black-Analogue-Watch-DK11421-5-2221526878966271-2.jpg",
+            "image": "http://assets.myntassets.com/assets/images/productimage/2019/5/10/7cb3f96a-c680-494e-ae4a-0bd1963805fb1557442938198-1.jpg",
             "title": "Midi tea dress in blue and red spot",
             "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
             "availableSizes": ["XL", "XXL"],
-            "price": 49.9
+            "price": 700
           }
     ]
 }
