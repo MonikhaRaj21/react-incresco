@@ -5,14 +5,14 @@ import React, { Component } from "react";
              <div>
                  <ul className="products">
                  {this.props.products.map((product) => (
-                <li key={product._id}>
+                <li key={product.productId}>
                   <div className="product">
                     <a
-                      href={"#" + product._id}
+                      href={"#" + product.productId}
                       onClick={() => this.openModal(product)}
                     >
-                      <img src={product.image} alt={product.title}></img>
-                      <p>{product.title}</p>
+                      <img src={product.searchImage} alt={product.productName}></img>
+                      <p>{product.productName}</p>
                     </a>
                     <div className="product-price">
                       <div>Rs. {product.price}</div>

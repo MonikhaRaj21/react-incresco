@@ -3,16 +3,16 @@
         {
             "_id": "dress1",
             "image": "http://assets.myntassets.com/assets/images/2466435/2018/5/21/265434b9-de22-4b2c-9ca2-ded4c01ef5801526878966488-Daniel-Klein-Women-Black-Analogue-Watch-DK11421-5-2221526878966271-1.jpg",
-            "title": "Midi sundress with shirring detail",
-            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "title": "Daniel Klein Women Black Analogue Watch DK11421-5",
+            "description": "Daniel Klein Women Black Analogue Watch DK11421-5",
             "availableSizes": ["X", "L", "XL", "XXL"],
             "price": 300
           },
           {
             "_id": "dress2",
             "image": "http://assets.myntassets.com/assets/images/7139461/2018/11/7/e611ed53-c1d6-4fa9-b4a6-eaf8d7bb5e7e1541566511748-Roadster-Men-Black-Slim-Fit-Mid-Rise-Clean-Look-Stretchable-Jeans-1671541566511549-1.jpg",
-            "title": "Midi sundress with ruched front",
-            "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
+            "title": "Roadster Men Black Slim Fit Mid-Rise Jeans",
+            "description": "Roadster Men Black Slim Fit Mid-Rise Jeans",
             "availableSizes": ["X", "M", "L"],
             "price": 450
           },
