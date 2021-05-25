@@ -2,7 +2,7 @@
     "products": [
         {
             "_id": "dress1",
-            "image": "/images/dress1.jpg",
+            "image": "http://assets.myntassets.com/assets/images/2466435/2018/5/21/265434b9-de22-4b2c-9ca2-ded4c01ef5801526878966488-Daniel-Klein-Women-Black-Analogue-Watch-DK11421-5-2221526878966271-1.jpg",
             "title": "Midi sundress with shirring detail",
             "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
             "availableSizes": ["X", "L", "XL", "XXL"],
@@ -10,7 +10,7 @@
           },
           {
             "_id": "dress2",
-            "image": "/images/dress2.jpg",
+            "image": "http://assets.myntassets.com/assets/images/2466435/2018/5/21/265434b9-de22-4b2c-9ca2-ded4c01ef5801526878966488-Daniel-Klein-Women-Black-Analogue-Watch-DK11421-5-2221526878966271-1.jpg",
             "title": "Midi sundress with ruched front",
             "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
             "availableSizes": ["X", "M", "L"],
@@ -18,7 +18,7 @@
           },
           {
             "_id": "dress3",
-            "image": "/images/dress3.jpg",
+            "image": "http://assets.myntassets.com/assets/images/2466435/2018/5/21/5a51798e-0e4d-480d-b9ed-bdfcc30e22b51526878966366-Daniel-Klein-Women-Black-Analogue-Watch-DK11421-5-2221526878966271-6.jpg",
             "title": "Midi dress in pink ditsy floral",
             "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
             "availableSizes": ["X", "M", "L"],
@@ -26,7 +26,7 @@
           },
           {
             "_id": "dress4",
-            "image": "/images/dress4.jpg",
+            "image": "http://assets.myntassets.com/assets/images/2466435/2018/5/21/314e6bcc-c0ae-408a-b3a8-8a31b2f337d51526878966390-Daniel-Klein-Women-Black-Analogue-Watch-DK11421-5-2221526878966271-5.jpg",
             "title": "cami maxi dress in polka dot",
             "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
             "availableSizes": ["XL"],
@@ -34,7 +34,7 @@
           },
           {
             "_id": "dress5",
-            "image": "/images/dress5.jpg",
+            "image": "http://assets.myntassets.com/assets/images/2466435/2018/5/21/368417e0-6013-4b48-ae5b-619cc2f467581526878966440-Daniel-Klein-Women-Black-Analogue-Watch-DK11421-5-2221526878966271-3.jpg",
             "title": "Frill mini dress in yellow polka dot",
             "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
             "availableSizes": ["X", "L", "XL"],
@@ -42,7 +42,7 @@
           },
           {
             "_id": "dress6",
-            "image": "/images/dress6.jpg",
+            "image": "http://assets.myntassets.com/assets/images/2466435/2018/5/21/09caaa2f-c6ec-4fc2-812b-f97976f820431526878966463-Daniel-Klein-Women-Black-Analogue-Watch-DK11421-5-2221526878966271-2.jpg",
             "title": "Midi tea dress in blue and red spot",
             "description": "This is for all the latest trends, no matter who you are, where you’re from and what you’re up to. Exclusive to ASOS, our universal brand is here for you, and comes in all our fit ranges: ASOS Curve, Tall, Petite and Maternity. Created by us, styled by you.",
             "availableSizes": ["XL", "XXL"],
